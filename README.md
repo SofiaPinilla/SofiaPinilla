@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Sofía Pinilla
 
-<!--
-**SofiaPinilla/SofiaPinilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full Stack Developer MERN, MEAN & MEVN Stacks, PHP+Laravel</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiapinilla" alt="sofiapinilla" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as **Lead Instructor at The Bridge School**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **JavaScript (React, Angular,Vue, NodeJS), MongoDB , MySQL ,PHP (Laravel)**
+
+- 📫 How to reach me **contact@sofiapinilla.com**
+
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiapinilla&layout=compact&hide=html" alt="sofiapinilla" />
+</p>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sofiapinilla&show_icons=true" alt="sofiapinilla" />
+</p>
