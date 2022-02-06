@@ -10,7 +10,7 @@
 - 📫 How to reach me **contact@sofiapinilla.com**
 
 <div align="center">
-  <a href="https://github.com/amparo1206">
+  <a href="SofiaPinilla">
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiapinilla&layout=compact&hide=html" alt="sofiapinilla" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sofiapinilla&show_icons=true" alt="sofiapinilla"/>
 </div>
