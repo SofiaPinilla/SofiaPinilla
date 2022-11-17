@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript (React, Angular,Vue, NodeJS), MongoDB , MySQL ,PHP (Laravel)**
 
-- 📫 How to reach me **contact@sofiapinilla.com**
+- 📫 How to reach me **sofia.pinillach@gmail.com**
 
 <div align="center">
   <a href="SofiaPinilla">
