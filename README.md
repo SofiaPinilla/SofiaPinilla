@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer MERN, MEAN & MEVN Stacks, PHP+Laravel</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiapinilla" alt="sofiapinilla" /> </p>
 
-- 🔭 I’m currently working as **Lead Instructor at The Bridge School**
+- 🔭 I’m currently working as **Docente & Full Stack Developer at EDEM**
 
 - 💬 Ask me about **JavaScript (React, Angular,Vue, NodeJS), MongoDB , MySQL ,PHP (Laravel)**
 
